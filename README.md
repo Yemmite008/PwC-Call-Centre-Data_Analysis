@@ -38,4 +38,4 @@ Treemap to illustrate how well customers are satisfied from their ratings.
 
 Cards to illustrate the total calls, total calls answered and abandoned in a period of time.
 
-
+![total calls recieved and abandoned](iimages/Screenshot_20240818_085641.png)
