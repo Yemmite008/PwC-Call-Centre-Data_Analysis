@@ -1,0 +1,4 @@
+# Total calls
+
+
+Total Calls = COUNTROWS('Call Centre Data')
