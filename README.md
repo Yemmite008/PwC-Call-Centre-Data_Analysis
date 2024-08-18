@@ -22,7 +22,7 @@ The dashboard includes a variety of visualizations to support the analysis, incl
 
 Bar charts for comparing call volumes and agent performance.
 
-![Dashboard_overview](iimages/Screenshot_20240818_075004.png)
+![Dashboard_overview](iimages/Screenshot_20240818_085317.png)
 
 Line graphs to track trends over time.
 Donut charts to illustrate the percentage of call answered and abandoned.
