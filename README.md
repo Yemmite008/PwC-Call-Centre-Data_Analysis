@@ -33,3 +33,9 @@ Donut charts to illustrate the percentage of call answered and abandoned.
 ![Time_series_analysis](iimages/Screenshot_20240818_085435.png)
 
 Treemap to illustrate how well customers are satisfied from their ratings.
+
+![dashboard overview](iimages/Screenshot_20240818_085513.png)
+
+Cards to illustrate the total calls, total calls answered and abandoned in a period of time.
+
+
