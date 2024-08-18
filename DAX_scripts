@@ -1,0 +1,16 @@
+# Total calls
+
+Total Calls = COUNTROWS('Call Centre Data')
+
+# Total calls abandoned
+
+Total Calls Abandoned = COUNTROWS(FILTER('Call Centre Data', 'Call Centre Data'[Resolved] = "N"))
+
+# Total calls answered
+
+Total calls Answered = COUNTROWS(FILTER('Call Centre Data', 'Call Centre Data'[Resolved] ="Y"))
+
+# Top performing Agent
+
+Top Performing Agent = RANKX(ALL('Call Centre Data'[Agent]), [Total customer satisfaction], ,DESC,Dense)
+
