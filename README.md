@@ -17,10 +17,12 @@ This section measures how effectively the call center agents handles incoming ca
 4. Agent Performance Analysis
 Agent performance is evaluated based on key performance indicators (KPIs) such as average talk time, customer satisfaction scores. This analysis helps identify top-performing agents, as well as those who may need additional training or support.
 
-##Visualizations
+## Visualizations
 The dashboard includes a variety of visualizations to support the analysis, including:
 
 Bar charts for comparing call volumes and agent performance.
+
+![Dashboard_overview](
 Line graphs to track trends over time.
 Donut charts to illustrate the percentage of call answered and abandoned.
 Treemap to illustrate how well customers are satisfied from their ratings.
